@@ -1,9 +1,7 @@
 
 news-rest-api
 
-# News article REST API.
-
-Deployed the project on Heroku (free tier). Available at - https://news-rest-api.herokuapp.com/
+News article REST API. Deployed the project on Heroku (free tier). Available at - https://news-rest-api.herokuapp.com/
 # API endpoints:
 #### Retrieve the news article with the specified title
 
