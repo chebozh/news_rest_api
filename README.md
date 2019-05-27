@@ -16,7 +16,7 @@ News article REST API. Deployed the project on Heroku (free tier). Available at 
 ```/news (POST)```
 
 Required request data params: 
-`date=[string]` (format: dd-mm-yyyy) `title=[string]` `description=[string]` `title=[string]`
+`date=[string]` (format: dd-mm-yyyy) `title=[string]` `description=[string]` `text=[string]`
 
 As JSON in the request's body.
 
@@ -25,7 +25,7 @@ As JSON in the request's body.
 ```/news (PUT)```
 
 Optional request data params: 
-`date=[string]` (format: dd-mm-yyyy) `title=[string]` `description=[string]` `title=[string]`
+`date=[string]` (format: dd-mm-yyyy) `title=[string]` `description=[string]` `text=[string]`
 
 #### Update an existing article, filtered by title
 
